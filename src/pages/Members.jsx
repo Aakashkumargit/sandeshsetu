@@ -107,10 +107,7 @@ export default function Members() {
         ))}
       </div>
 
-      {/* Footer */}
-      <footer className="mt-16 py-10 border-t text-center text-gray-500">
-        &copy; 2025 SandeshSetu. All rights reserved.
-      </footer>
+      
     </div>
   );
 }
